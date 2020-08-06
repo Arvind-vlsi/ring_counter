@@ -6,7 +6,7 @@
 
 ---
 
-# # Output in console
+## Output in console
  >we have started ring counter 0001 , we can see the output in the console,time period is 4T
  
  ---
